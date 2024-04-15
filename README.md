@@ -1,9 +1,13 @@
 # YASH (Yet another sample and hold)
 [Original project](https://www.schmitzbits.de/sah.html) by Rene Schmitz.
 
-<img src="images/front.jpg" height="600"/>
-<img src="images/side.jpg" height="600"/>
-<img src="images/back.jpg" height="600"/>
+<table>
+    <tr>
+        <td><img src="images/front.jpg" height="600"/></td>
+        <td><img src="images/side.jpg" height="600"/></td>
+        <td><img src="images/back.jpg" height="600"/></td>
+    </tr>
+</table>
 
 # Stats
 - 4HP
